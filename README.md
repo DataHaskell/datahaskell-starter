@@ -17,6 +17,13 @@ This repo is batteries included environment for the DataHaskell ecosystem:
 
 If you’re new to DataHaskell, this is the recommended way to get a working setup.
 
+## Setting up
+You can set up a devcontainer in your current folder by running the command below:
+
+- Linux/MacOS: `curl -sSL https://raw.githubusercontent.com/DataHaskell/datahaskell-starter/refs/heads/main/setup.sh | sh`
+
+When you next open VS Code you should see a modal asking if you want to re-open the project in a devcontainer.
+
 Check out the example project in the `notebooks` directory.
 ---
 
