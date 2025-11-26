@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 # Usage: hscript input.hs
+# Note: this file was partially generated with an LLM.
 
 mkdir -p /tmp/hscript
 

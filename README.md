@@ -55,6 +55,12 @@ D.derive "ratio" (sepal_width / sepal_length) iris
 
 Linux/MacOS: Download `https://raw.githubusercontent.com/DataHaskell/datahaskell-starter/refs/heads/main/setup.sh` and add it to your PATH.
 
+You can then run files like the one above by typing:
+
+```bash
+hscript runme.hs
+```
+
 ### Example notebooks
 Check out the example project in the `notebooks` directory.
 ---
